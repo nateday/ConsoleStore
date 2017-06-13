@@ -1,0 +1,5 @@
+C:\source\BCW\C#\ConsoleStore\ConsoleStore\bin\Debug\ConsoleStore.dll
+C:\source\BCW\C#\ConsoleStore\ConsoleStore\bin\Debug\ConsoleStore.pdb
+C:\source\BCW\C#\ConsoleStore\ConsoleStore\obj\Debug\ConsoleStore.csprojResolveAssemblyReference.cache
+C:\source\BCW\C#\ConsoleStore\ConsoleStore\obj\Debug\ConsoleStore.dll
+C:\source\BCW\C#\ConsoleStore\ConsoleStore\obj\Debug\ConsoleStore.pdb
