@@ -19,9 +19,9 @@ namespace ConsoleStore
         //    Price = price;
         //}
 
-        //public void Display()
-        //{
-        //    Console.WriteLine("Item: {0}. Price: {1:C}. Description: {2}", Name, Price, Description);
-        //}
+        public void Display()
+        {
+            Console.WriteLine("Item: {0}. Price: {1:C}. Description: {2}", Name, Price, Description);
+        }
     }
 }
